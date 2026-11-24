@@ -1,0 +1,86 @@
+
+DOUGS DEALS DEALERSHIP - INVENTORY FILE
+
+INSTRUCTIONS:
+Each car must contain 7 lines in the following order:
+
+1. Price (integer)
+2. Year (integer)
+3. Model (string)
+4. Make (string)
+5. Sold Status (0 = Not Sold, 1 = Sold)
+6. Color (string)
+7. Fuel Type (string)
+
+END INSTRUCTIONS
+
+12000
+2018
+Mazda3
+Mazda
+0
+Blue
+Gasoline
+16000
+2017
+F-150
+Ford
+0
+Black
+Gasoline
+25000
+2022
+Camry
+Toyota
+1
+White
+Hybrid
+22000
+2021
+Civic
+Honda
+0
+Red
+Gasoline
+35000
+2023
+Model 3
+Tesla
+0
+Silver
+Electric
+18000
+2019
+Outback
+Subaru
+1
+Green
+Gasoline
+30000
+2022
+Mustang
+Ford
+0
+Red
+Gasoline
+28000
+2020
+Wrangler
+Jeep
+0
+Orange
+Gasoline
+20000
+2021
+Accord
+Honda
+1
+Metalic Gray
+Gasoline
+32000
+2020
+Silverado
+Chevrolet
+0
+White
+Diesel
