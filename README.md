@@ -1,2 +1,0 @@
-# CSC-final
-csc final
